@@ -1,0 +1,102 @@
+.overlay {
+    
+    opacity: 0;
+    transition: .5s ease;
+    
+  }
+  .text {
+    background-color:gray;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    transform: translate(10%, 50%,60%);
+    border-radius: 12px;
+    margin-top: 5%;
+  }
+  .container:hover .overlay {
+    opacity: 1;
+  }  
+  .container:hover .hl {
+    opacity: 0.3;
+    border: 1px solid red;
+  }
+  .textc {
+    background-color:gray;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    transform: translate(10%, 50%,60%);
+    border-radius: 12px;
+    margin-top: 5%;
+  }
+  .container2:hover .overlay {
+    opacity: 1;
+  }  
+  .container:hover .cssl {
+    opacity: 0.3;
+    border: 1px solid red;
+  }
+
+  .textj {
+    background-color:gray;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    transform: translate(10%, 50%,60%);
+    border-radius: 12px;
+    margin-top: 5%;
+  }
+  .container3:hover .overlay {
+    opacity: 1;
+  }  
+  .container3:hover .jsl {
+    opacity: 0.3;
+    
+  }
+
+  .textja {
+    background-color:gray;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    transform: translate(20%, 50%,60%);
+    border-radius: 12px;
+    margin-top: 35%;
+    width: 50%;
+    margin-left: 13%;
+  }
+  .container4:hover .overlay {
+    opacity: 1;
+  }  
+  .container4:hover .javal {
+    opacity: 0.3;
+    
+  }
+  .textp {
+    background-color:gray;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    transform: translate(10%, 50%,60%);
+    border-radius: 12px;
+    margin-top: 35%;
+    width: 50%;
+    margin-left: -20%;
+    
+  }
+  .container5:hover .overlay {
+    opacity: 1;
+  }  
+  .container4:hover .pyl {
+    opacity: 0.3;
+    
+  }
+  .card:hover{
+      transform:scale(1.1);
+  }
+  .card{
+    transition: 1s;
+    
+  }
+  
+  
